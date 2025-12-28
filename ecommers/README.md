@@ -5,6 +5,6 @@ kurish,
 uchirish,
 uzgarirish
 
-# bunga mualiflar ham catigorylar qilis mumkin
+# bunga mualiflar ham catigorylar qilish mumkin
 author qushish,
 catigory yaratish mumkin
